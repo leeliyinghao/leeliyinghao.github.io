@@ -1,6 +1,6 @@
 # Site settings
 title: 自学者：Lee duck_bo
-SEOTitle: 先学如何自学再自学
+SEOTitle:  先学如何自学再自学
 header-img: img/post-bg-desk.jpg
 email: 582419029@qq.com
 description: "非科班出身未必差，科班出身一样大把咸鱼"
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo:    #仓库名称
+  owner:    #github用户名
+  admin: 
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
