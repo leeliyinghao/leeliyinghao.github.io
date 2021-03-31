@@ -1,11 +1,11 @@
 # Site settings
-title: 三叶草国际语
-SEOTitle: 三叶草国际语 - 让沟通更容易
+title: 自学者：Lee duck_bo
+SEOTitle: 先学如何自学再自学
 header-img: img/post-bg-desk.jpg
 email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://klovien.github.io"          # your host, for absolute URL
+description: "非科班出身未必差，科班出身一样大把咸鱼"
+keyword: "编程、英语、咏春、瑜伽、理财投资"
+url: "https://leeliyinghao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
 
